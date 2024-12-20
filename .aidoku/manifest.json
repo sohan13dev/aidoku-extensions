@@ -1,0 +1,11 @@
+{
+    "id": "nhentai",
+    "name": "nhentai",
+    "author": "YourName",
+    "version": "1.0.0",
+    "description": "Fetch manga from nhentai.net",
+    "content_type": "doujinshi",
+    "website": "https://nhentai.net",
+    "language": "en",
+    "nsfw": true
+}
